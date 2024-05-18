@@ -107,7 +107,7 @@
 
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
   <img
-    src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
+    src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/bash/bash-original.svg"
     alt="bash"
     width="40"
     height="40"
@@ -115,7 +115,7 @@
 </a>
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://download.blender.org/branding/community/blender_community_badge_white.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/blender/blender-original.svg"
       alt="blender"
       width="40"
       height="40"
@@ -134,7 +134,7 @@
   </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg"
       alt="photoshop"
       width="40"
       height="40"
