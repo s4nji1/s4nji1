@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hamza Aitbouhou</h1>
 <h3 align="center">A passionate developer from Morocco</h3>
 
+<p align="center"><img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" /></p>
+
 ## 💻 Connect with me:
 <p align="left">
 <a href="https://twitter.com/s_4nji__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="s_4nji__" height="30" width="40" /></a>
@@ -142,15 +144,17 @@
   </a>
 </p>
 
+<br>
+
 ## ☄️ Github Streaks:
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s4nji1&theme=tokyonight" alt="s4nji1" /></p>
+<p align="center" ><img  src="https://github-readme-streak-stats.herokuapp.com/?user=s4nji1&theme=tokyonight" alt="s4nji1" /></p>
 
 <br>
 
 ## ⚡ Github Stats:
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s4nji1&show_icons=true&locale=en&theme=tokyonight" alt="s4nji1" /></p>
+<p img align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=s4nji1&show_icons=true&locale=en&theme=tokyonight" alt="s4nji1" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=s4nji1&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="s4nji1" /></p>
+<p img align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=s4nji1&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="s4nji1" /></p>
 
 
 
