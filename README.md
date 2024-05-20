@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hamza Aitbouhou</h1>
 <h3 align="center">A passionate developer from Morocco</h3>
 
-<p align="center"><img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" /></p>
+<p img align="center" ><img src="https://raw.githubusercontent.com/parth-27/parth-27/master/dev.gif" /></p>
 
 ## 💻 Connect with me:
 <p align="left">
@@ -162,4 +162,3 @@
 
 <p img align="center" ><img src="https://raw.githubusercontent.com/s4nji1/s4nji1/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Snake eating my contributions" /></p>
 
-<p img align="center" ><img src="https://raw.githubusercontent.com/parth-27/parth-27/master/dev.gif" /></p>
