@@ -2,7 +2,7 @@
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Poetsen+one&pause=1000&color=8931F7&random=false&width=435&height=100&lines=A+passionate+developer+from+Morocco" alt="Typing SVG" /></p>
 
 
-<p img align="center" ><img src="https://raw.githubusercontent.com/parth-27/parth-27/master/dev.gif" /></p>
+
 
 ## 💻 Connect with me:
 <p align="left">
