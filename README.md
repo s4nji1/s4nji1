@@ -3,6 +3,7 @@
 
 <p img align="center" ><img src="https://raw.githubusercontent.com/parth-27/parth-27/master/dev.gif" /></p>
 
+
 ## 💻 Connect with me:
 <p align="left">
 <a href="https://x.com/s_4nji__" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/twitter/twitter-original.svg" alt="s_4nji__" height="30" width="40" /></a>
