@@ -15,7 +15,7 @@
 
 ## 🎯 Languages and Tools:
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,html,css,figma,js,php,mysql,git,linux,vim,bash,blender,ai,ps,)](https://skillicons.dev)"/></p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,html,css,figma,js,php,mysql,github,git,linux,vim,bash,blender,ai,ps,)](https://skillicons.dev)"/></p>
 
 <br>
 
