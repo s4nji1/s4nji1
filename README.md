@@ -32,5 +32,5 @@
 
 ## 🐍 My contrributions:
 
-<p img align="center" ><img src="https://raw.githubusercontent.com/s4nji1/s4nji1/output/github-contribution-grid-snake.svg?palette=github-dark" alt="Snake eating my contributions" /></p>
+<p img align="center" ><img src="https://raw.githubusercontent.com/s4nji1/s4nji1/output/github-contribution-grid-snake.gif?palette=github-dark" alt="Snake eating my contributions" /></p>
 
