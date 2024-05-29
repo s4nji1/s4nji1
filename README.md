@@ -1,7 +1,7 @@
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Hamza+Aitbouhou!;" /></p>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Poetsen+one&pause=1000&color=8931F7&random=false&width=435&height=100&lines=A+passionate+developer+from+Morocco" alt="Typing SVG" /></p>
 
-<p img align="center" ><img width="700px" height="auto" src="dev.jpeg" /></p>
+<p img align="center" ><img width="800px" height="auto" src="dev.jpeg" /></p>
 
 ## 💻 Connect with me:
 <p align="left">
