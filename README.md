@@ -6,7 +6,7 @@
 <br>
 
 ## 📱 Connect with me:
-<p align="left">
+<p align="center">
 <a href="https://x.com/s_4nji__" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/twitter/twitter-original.svg" alt="s_4nji__" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/hamza-aitbouhou-540a192b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamza aitbouhou" height="30" width="40" /></a>
 </p>
@@ -15,7 +15,7 @@
 
 ## 💻 Skills:
 
-<p align="left">
+<p align="center">
 <a href="https://stackoverflow.com/users/25119582/s4nji1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="s4nji1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/s4nji1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="s4nji1" height="30" width="40" /></a>
 </p>
