@@ -15,7 +15,7 @@
 
 ## 🎯 Languages and Tools:
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=py,c,cpp,java,html,css,laravel,dart,bootstrap,tailwind,flutter,kotlin,figma,js,php,mysql,postgres	,mongodb,windows,ubuntu,github,git,vim,bash,vscode,androidstudio,blender,ai,ps,)](https://skillicons.dev)"/></p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=py,c,cpp,java,html,css,laravel,dart,bootstrap,tailwind,flutter,kotlin,figma,js,php,mysql,postgres,mongodb,windows,ubuntu,github,git,vim,bash,vscode,androidstudio,blender,ai,ps,)](https://skillicons.dev)"/></p>
 
 <br>
 
