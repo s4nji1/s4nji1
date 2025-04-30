@@ -19,17 +19,6 @@
 
 <br>
 
-## ☄️ Github Streaks:
-<p align="center" ><img  src="https://github-readme-streak-stats.herokuapp.com/?user=s4nji1&theme=tokyonight" alt="s4nji1" /></p>
-
-<br>
-
-## ⚡ Github Stats:
-<p img align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=s4nji1&show_icons=true&locale=en&theme=tokyonight" alt="s4nji1" /></p>
-
-<p img align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=s4nji1&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="s4nji1" /></p>
-
-
 ## 🐍 My contrributions:
 
 <p img align="center" ><img src="https://raw.githubusercontent.com/s4nji1/s4nji1/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Snake eating my contributions" /></p>
